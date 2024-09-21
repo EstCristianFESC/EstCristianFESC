@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hola, soy Cristian Durán 👋
 
-<!--
-**EstCristianFESC/EstCristianFESC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Cristian Durán](https://github.com/user-attachments/assets/542da023-8214-4ab3-b9c5-1d21a122c5ee)
 
-Here are some ideas to get you started:
+### 👨‍💻 Sobre mí  
+Soy **estudiante de Ingeniería de Software** apasionado por el desarrollo de software y la tecnología. Siempre en constante aprendizaje para mejorar mis habilidades en programación y seguir creciendo en el mundo tecnológico. Me encanta el **desarrollo web** y estoy enfocado en aprender y aplicar nuevas tecnologías.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Tecnologías que manejo:
+- **Lenguajes**: Java, JavaScript, HTML, CSS ☕
+- **Control de versiones**: Git, GitHub  
+
+### 🎯 Actualmente aprendiendo:
+- **Node.js** y desarrollo de Backend
+- **Bases de datos** como MySQL
+
+### 🔗 ¡Echa un vistazo a mis proyectos!
+- [Mi portafolio](https://github.com/EstCristianFESC)  
+- [Proyecto web Electrónica](https://github.com/EstCristianFESC/Electronica.git)
+
+### 👾 Fan de los proyectos open-source y colaborativos
