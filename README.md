@@ -5,13 +5,10 @@
 ### 👨‍💻 Sobre mí  
 Soy **estudiante de Ingeniería de Software** apasionado por el desarrollo de software y la tecnología. Siempre en constante aprendizaje para mejorar mis habilidades en programación y seguir creciendo en el mundo tecnológico. Me encanta el **desarrollo web** y estoy enfocado en aprender y aplicar nuevas tecnologías.
 
-### 🌐 Tecnologías que manejo:
-- **Lenguajes**: Java, JavaScript, HTML, CSS ☕
-- **Control de versiones**: Git, GitHub  
-
 ### 🎯 Actualmente aprendiendo:
-- **Node.js** y desarrollo de Backend
+- **Backend:** PHP, Java, Node.js
 - **Bases de datos** como MySQL
+- **Control de Versiones:** Git y GitHUb
 
 ### 🔗 ¡Echa un vistazo a mis proyectos!
 - [Mi portafolio](https://github.com/EstCristianFESC)  
